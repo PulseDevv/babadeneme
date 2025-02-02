@@ -6,9 +6,9 @@ Config.YoutubeLink = "https://discord.gg/letrag";
 
 Config.InstagramLink = "https://discord.gg/letrag";
 
-Config.VideoYoutubeLink = "DAQYMyzE8ww"; // THE ID USED HERE IS LIKE IN THIS EXAMPLE - https://www.youtube.com/watch?v=DAQYMyzE8ww -> DAQYMyzE8ww
+Config.VideoYoutubeLink = "NthGfn_ddRQ"; // THE ID USED HERE IS LIKE IN THIS EXAMPLE - https://www.youtube.com/watch?v=DAQYMyzE8ww -> DAQYMyzE8ww
 
-Config.GameLoading = "LETRA YÜKLENİYOR";
+Config.GameLoading = "LETRAG YÜKLENİYOR";
 
 Config.Owner = "Pulse";
 
