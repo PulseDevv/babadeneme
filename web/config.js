@@ -1,22 +1,22 @@
 Config = {};
 
-Config.DiscordLink =  "https://discord.gg/letrarp";
+Config.DiscordLink =  "https://discord.gg/letrag";
 
-Config.YoutubeLink = "https://discord.gg/letrarp";
+Config.YoutubeLink = "https://discord.gg/letrag";
 
-Config.InstagramLink = "https://discord.gg/letrarp";
+Config.InstagramLink = "https://discord.gg/letrag";
 
 Config.VideoYoutubeLink = "DAQYMyzE8ww"; // THE ID USED HERE IS LIKE IN THIS EXAMPLE - https://www.youtube.com/watch?v=DAQYMyzE8ww -> DAQYMyzE8ww
 
 Config.GameLoading = "LETRA YÜKLENİYOR";
 
-Config.Owner = "Herasu";
+Config.Owner = "Pulse";
 
-Config.OwnerLabel = "Owner";
+Config.OwnerLabel = "Kurucu";
 
-Config.Developer = "Sinnotes";
+Config.Developer = "Lenax";
 
-Config.DeveloperLabel = "Owner";
+Config.DeveloperLabel = "Kurucu";
 
 Config.AboutUs = "Unutmayalım !";
 
@@ -37,11 +37,11 @@ Config.PopUpDescription = "Link Başarıyla Kopyalandı";
 Config.UpdateList = {
     update1: {
         color: "#42FF6B",
-        label: "Herhangi bir sorununuzda /report yazarak oyun içi iletişime geçebilirsiniz."
+        label: "Oyununuzu 64 bit'e almayı unutmayın!"
     },
     update2: {
         color: "#df2727",
-        label: "Report ile dönüş almıyorsanız ticket açabilirsiniz."
+        label: "Bir sorununuz varsa ticket açmayı unutmayın."
     },
     update3: {
         color: "#42FF6B",
@@ -69,6 +69,6 @@ Config.GameWait = {
         label: "KURALLARI OKU."
     },
     wait3: {
-        label: "NATION ♥"
+        label: "İsaacreal ♥"
     },
 };
