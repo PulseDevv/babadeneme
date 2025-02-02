@@ -18,9 +18,6 @@ Config.Developer = "Lenax";
 
 Config.DeveloperLabel = "Kurucu";
 
-Config.AboutUs = "Unutmayalım !";
-
-Config.AboutUsDescription = "Normal hayatta günlük olarak kullanılamayacağı kıyafetleri  kullanılması yasaktır. Yapılan mesleğe ,işe ve eyleme göre giyilmesi zorunludur. İllegal bölgeler haricinde maske takmak yasaktır";
 
 Config.LastUpdates = "Hatırlatma !";
 
